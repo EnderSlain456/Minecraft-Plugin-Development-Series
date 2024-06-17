@@ -1,0 +1,10 @@
+name: Tutorial
+version: '1.0'
+main: com.tutorial.core.Tutorial
+api-version: '1.20'
+load: STARTUP
+description: This is a Tutorial Plugin
+author: EnderSlain
+commands:
+  test:
+    description: Test Command
