@@ -1,0 +1,5 @@
+com\tutorial\listeners\joinListener.class
+com\tutorial\commands\Discord.class
+com\tutorial\core\ColorUtils.class
+com\tutorial\core\Tutorial.class
+com\tutorial\commands\TestCommand.class

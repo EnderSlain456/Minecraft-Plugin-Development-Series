@@ -1,0 +1,12 @@
+name: Tutorial
+version: '${project.version}'
+main: com.tutorial.core.Tutorial
+api-version: '1.20'
+load: STARTUP
+description: This is a Tutorial Plugin
+author: EnderSlain
+commands:
+  test:
+    description: Test Command
+  discord:
+    description: Sends the player the discord server invite
