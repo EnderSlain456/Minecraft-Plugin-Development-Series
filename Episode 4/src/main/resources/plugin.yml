@@ -14,3 +14,11 @@ commands:
     description: gives teleport bow
   spawn:
     description: sends Player to Spawn
+  kick:
+    description: Kicks a Player
+  ban:
+    description: Bans a Player
+  unban:
+    description: Unbans a Player
+  vanish:
+    description: vanish from players
