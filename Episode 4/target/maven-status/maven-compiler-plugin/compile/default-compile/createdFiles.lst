@@ -1,0 +1,12 @@
+com\tutorial\hub\AFKManager$1.class
+com\tutorial\core\Tutorial.class
+com\tutorial\core\Utils.class
+com\tutorial\hub\TeleportBow.class
+com\tutorial\hub\AFKManager.class
+com\tutorial\hub\LaunchPad.class
+com\tutorial\core\ColorUtils.class
+com\tutorial\commands\TestCommand.class
+com\tutorial\listeners\joinListener.class
+com\tutorial\commands\Discord.class
+com\tutorial\commands\Spawn.class
+com\tutorial\hub\PlayerVisibility.class

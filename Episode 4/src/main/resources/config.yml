@@ -1,0 +1,12 @@
+join:
+  joinPrefix: "&7[&#16FC19&l+&7] "
+  quitPrefix: "&7[&#FF0000&l-&7] "
+
+launchPad:
+  launchX: 10
+  launchY: 7
+  launchZ: 0
+spawn:
+  spawnX: 0
+  spawnY: 0
+  spawnZ: 0
